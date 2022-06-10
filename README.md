@@ -1,10 +1,10 @@
 <div align="center">
-<h3>:star: Hi, I'm Inês. :star:</h3>
+<h3>:star: Hi, I'm Inês :star:</h3>
 </div>
 
 ## About me:
 I'm a portuguese Computer Engineer, who is passionate about building tech, technology and learning new things.  
-I’m currently looking for new opportunities.
+I’m currently working in Data Engineering.
 
 ## Skill set:  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
